@@ -1,0 +1,42 @@
+DOSSIER: the interactive CV of Tiago Dinis
+Copyright (c) 2026 Tiago Dinis. All rights reserved.
+
+The CV and its text, the report, the shell, the games, the CTF and its story,
+and the code that runs them (including the 3D scenes, the WebGL renderer that
+draws them and the page that switches between them), as well as the
+screenshots in this repository, are the work of Tiago Dinis.
+
+No licence is granted to copy, modify, re-host, distribute or reuse any of it,
+in whole or in part, without written permission. To ask, message me on
+LinkedIn: https://linkedin.com/in/tiago-dinis-073544252
+
+-------------------------------------------------------------------------------
+THIRD-PARTY MATERIAL, NOT COVERED BY THE NOTICE ABOVE
+-------------------------------------------------------------------------------
+
+1. The retro computer's 3D model, its baked textures, environment map and
+   camera choreography, embedded in index.html, are used under this licence:
+
+   retro-computer-website — MIT License
+   Copyright (c) 2024 Edward Hinrichsen
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+2. The web fonts JetBrains Mono and VT323, loaded from Google Fonts, are each
+   licensed under the SIL Open Font License 1.1.
