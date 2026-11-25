@@ -1,8 +1,8 @@
 # DOSSIER
 
-**The interactive CV of Tiago Dinis, Cybersecurity Engineer at Portugal's National Cybersecurity Centre (CNCS).**
+**The interactive CV of Tiago Dinis.**
 
-DOSSIER is a résumé you can read in thirty seconds or explore for an hour. There's a clean report for the recruiter in a hurry, a working shell for the curious, a shelf of games, and a ten-flag CTF for anyone who wants to run a background check the hard way. It all runs in one static HTML file, in five 3D interfaces.
+DOSSIER is a résumé you can read in thirty seconds or explore for an hour. There's a clean report, a working shell for the curious, a shelf of games, and a ten-flag CTF for anyone who wants to run a background check the hard way. It all runs in one static HTML file, in five 3D interfaces.
 
 ![The Lisbon café at golden hour: a laptop showing the DOSSIER start screen on a café table, with a pastel de nata, a coffee and the 25 de Abril bridge behind](screenshots/cafe.jpg)
 <p align="center"><sub>The Lisbon café, the default interface, at golden hour.</sub></p>
